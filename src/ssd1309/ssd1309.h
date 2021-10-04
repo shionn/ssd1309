@@ -5,7 +5,7 @@
 #include <SPI.h>
 
 #define SSD_1309_FLASH_FONT
-#define SSD_1309_REVERSE
+// #define SSD_1309_REVERSE
 
 #ifdef SSD_1309_FLASH_FONT
 #include <avr/pgmspace.h>
